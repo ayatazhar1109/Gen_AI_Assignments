@@ -15,14 +15,14 @@ def add_book(book_list):
         chk = input("do you want to add more books? (yes or no): ")
     return book_list
 
-#findbooks
+#find book
 def find_book(book_list, book_id):
     for books in book_list:
         if books["book_id"] == book_id:
             return books
     return None
 
-#borrow books
+#borrow book
 def borrow_book(book_list):
     x = "yes"
     while(x == "yes"):
@@ -108,7 +108,7 @@ def make_books():
 def show_menu(books):
     running = True
     while running:
-        print("\n Library Menu")
+        print("\n===== Library Menu =====")
         print("1. Add Book")
         print("2. Find Book")
         print("3. Borrow Book")
