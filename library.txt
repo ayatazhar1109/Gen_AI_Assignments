@@ -1,0 +1,15 @@
+1,Maths,Rowling,2000,False
+2,Maths,Rowling,2000,True
+3,Maths,Rowling,2000,True
+4,Maths,Rowling,2000,True
+5,Maths,Rowling,2000,True
+6,English,Ali Khan,2015,True
+7,English,Ali Khan,2015,False
+8,English,Ali Khan,2015,True
+9,English,Ali Khan,2015,False
+10,English,Ali Khan,2015,True
+11,Computer,Sara Ahmed,2010,True
+12,Computer,Sara Ahmed,2010,True
+13,Computer,Sara Ahmed,2010,False
+14,Computer,Sara Ahmed,2010,True
+15,Computer,Sara Ahmed,2010,True
